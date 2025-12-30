@@ -37,7 +37,10 @@ Check out the live application here:
 
 ## 📸 Screenshots
 
----
+<img width="1537" height="858" alt="ss3" src="https://github.com/user-attachments/assets/e86bae8b-b1f8-43dd-b5f6-303f3b83719c" />
+<img width="648" height="840" alt="ss2" src="https://github.com/user-attachments/assets/437f5794-286e-4472-bad5-113013197744" />
+<img width="1787" height="852" alt="ss1" src="https://github.com/user-attachments/assets/1c2b404c-651b-4a21-82c8-6dc4893e2703" />
+
 
 ## ⚙️ How to Run Locally
 
